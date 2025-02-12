@@ -1,4 +1,4 @@
-# Complaint System Program
+# Complaint System Program  
 
 ## Overview  
 This program is a complaint management system that allows users to submit complaints, track their status, and receive resolutions. It efficiently handles complaints by categorizing them, storing user inputs, and providing an organized way to manage and resolve issues.  
@@ -19,7 +19,9 @@ This program is a complaint management system that allows users to submit compla
 2. Run the executable file.  
 3. Follow on-screen instructions to submit and manage complaints.  
 
-## Future Enhancements  
-- Integration with a database for better data storage.  
-- User authentication system.  
-- Web-based interface for accessibility.  
+## Team Members  
+-Hafsa Shahzad  – Developer  
+Noor-Ul-Huda Imran – Developer  
+
+## Short Description  
+A complaint management system in C++ allowing users to submit, track, and resolve complaints with structured categorization and admin controls.  
