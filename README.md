@@ -1,23 +1,25 @@
-# Creating the README.md file with the provided content
+# Complaint System Program
 
-readme_content = """# Student Complaint System
+## Overview  
+This program is a complaint management system that allows users to submit complaints, track their status, and receive resolutions. It efficiently handles complaints by categorizing them, storing user inputs, and providing an organized way to manage and resolve issues.  
 
-## Overview
-The **Student Complaint System** is a **C++ console-based application** designed to help students file, track, and resolve complaints efficiently. The system allows users to register, log in, submit complaints, and view complaint status. It also ensures data persistence by storing user and complaint details in text files.
+## Features  
+- **User Complaint Submission**: Users can submit complaints with details such as category, description, and urgency.  
+- **Complaint Tracking**: Users can check the status of their complaints.  
+- **Admin Panel**: Admins can review, update, and resolve complaints.  
+- **Categorization**: Complaints are classified based on type for better management.  
+- **Data Storage**: Complaints are stored in a structured format for easy access.  
 
-## Features
-- **User Registration** – Secure sign-up with unique credentials  
-- **User Login** – Authenticate users before accessing the system  
-- **Submit Complaints** – File complaints under different categories  
-- **View Complaint Status** – Track progress and resolution updates  
-- **Provide Feedback** – Share feedback on resolved complaints  
-- **File Handling** – Store student and complaint data persistently  
-- **User-Friendly Interface** – Simple navigation through a console UI  
+## Technologies Used  
+- **Programming Language**: C++  
+- **Data Structures**: Implemented using queues, linked lists, or other appropriate structures.  
 
-## Technologies Used
-- C++ (Object-Oriented Programming)  
-- File Handling (`fstream` for data storage)  
-- Templates (for generic functions)  
-- Input Validation (Ensures correct user inputs)  
+## How to Run  
+1. Compile the program using a C++ compiler.  
+2. Run the executable file.  
+3. Follow on-screen instructions to submit and manage complaints.  
 
-## Project Structure
+## Future Enhancements  
+- Integration with a database for better data storage.  
+- User authentication system.  
+- Web-based interface for accessibility.  
