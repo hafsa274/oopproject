@@ -20,7 +20,7 @@ This program is a complaint management system that allows users to submit compla
 3. Follow on-screen instructions to submit and manage complaints.  
 
 ## Team Members  
--Hafsa Shahzad  – Developer  
+Hafsa Shahzad  – Developer  
 Noor-Ul-Huda Imran – Developer  
 
 ## Short Description  
